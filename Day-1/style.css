@@ -1,0 +1,17 @@
+h1{
+    color: aqua;
+    text-align: center;
+    font-weight: 28px;
+}
+
+ul li{
+    height: 50px;
+}
+.contacts{
+    border: 1px dashed black;
+    width: 500px;
+    height: 230px;
+    padding: 25px;
+    background-color: beige;
+    margin-top: 40px;
+}
